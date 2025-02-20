@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#CCCCCC</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="textColor">#000000</color>
+    <!-- 필요한 다른 색상들도 추가 -->
+</resources>
